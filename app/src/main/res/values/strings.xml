@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="user_profile">User Profile</string>
+    <string name="company">Company</string>
+    <string name="tabs_1">Followers</string>
+    <string name="tabs_2">Following</string>
+    <string name="user_not_found">User not found</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting_dark_mode">Setting Dark Mode</string>
+</resources>
